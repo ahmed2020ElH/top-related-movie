@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-async-handler": "^1.2.0",
+    "load": "^1.0.2",
+    "mongoos": "^0.0.1-security",
+    "node": "^21.2.0",
+    "node.js": "^0.0.1-security",
+    "string": "^3.3.3"
+  },
+  "devDependencies": {
+    "express": "^4.18.2",
+    "kill-port": "^2.0.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^6.10.0"
+  },
+  "keywords": [],
+  "description": ""
+}
